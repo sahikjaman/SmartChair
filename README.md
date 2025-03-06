@@ -1,9 +1,9 @@
-# *SMART CHAIR* Kursi Pintar Berbasis AI dan IoT sebagai Pemantau Kesehatan di Kantor
+# *SMART CHAIR* AI and IoT Based Smart Chair as Health Monitor in the Office
 
-Deskripsi Proyek : *SMART CHAIR* adalah kursi kantor pintar yang mengintegrasikan teknologi AI dan IoT untuk memantau dan meningkatkan kesehatan di tempat kerja. Kursi ini memberikan data dan umpan balik secara real-time untuk membantu pengguna menjaga postur tubuh yang baik dan mengelola kesehatan selama bekerja.
+Project Description : *SMART CHAIR* is a smart office chair that integrates AI and IoT technology to monitor and improve workplace health. The chair provides real-time data and feedback to help users maintain good posture and manage health while working.
 --
-Fitur-fitur :
-- **Fitur Pemantauan Postur dengan AI**: Mendeteksi dan memperbaiki postur tubuh yang buruk secara otomatis.
-- **Konektivitas IoT**: Menghubungkan dengan perangkat Anda untuk memberikan analisis kesehatan dan pengingat.
-- **Metrik Kesehatan**: Melacak dan melaporkan berbagai indikator kesehatan seperti waktu duduk, kualitas postur, dan lainnya.
-- **Antarmuka Ramah Pengguna**: Aplikasi yang mudah digunakan untuk mengakses data kesehatan Anda dan menerima tips yang dipersonalisasi.
+Features:
+- **AI Posture Monitoring**: Automatically detects and corrects bad posture.
+- **IoT Connectivity**: Connects with your devices to provide health analytics and reminders.
+- **Health Metrics**: Tracks and reports various health indicators such as sitting time, posture quality, and more.
+- **User-Friendly Interface**: Easy-to-use app to access your health data and receive personalized tips.
